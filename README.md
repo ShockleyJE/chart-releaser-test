@@ -1,0 +1,1 @@
+This repo is for testing the utility [Chart Releaser](https://github.com/helm/chart-releaser?tab=readme-ov-file#chart-releaser), used for self-hosting released Helm chart packages.
